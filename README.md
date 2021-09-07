@@ -11,6 +11,7 @@
     is maintained in the form of folders.
 
 `How the house data and transit classification data is used?`
+
 In order to identify if the transit accessibility has any impact on the sold house prices, it is important to know if 
 the transit accessibility is available within certain distance from the house location.
  
